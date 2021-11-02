@@ -1,0 +1,6 @@
+@import "../components/ProductForm/product-form.css";
+@import "../components/ProductList/product-list.css";
+
+body {
+    font-family: Arial, cursive;
+}
